@@ -1,0 +1,30 @@
+_repo: The-Growth-of-English-Drama_18799
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Wynne, Arnold
+    birthdate: 1880
+    gutenberg_agent_id: '8259'
+    url: http://www.gutenberg.org/2009/agents/8259
+description: ''
+gutenberg_issued: '2006-07-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '18799'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'English drama -- Early modern and Elizabethan, 1500-1600 -- History and criticism'
+- !lcc 'PR'
+- !lcsh 'English drama -- To 1500 -- History and criticism'
+tableOfContents: 'Early church drama on the continent -- English miracle plays --
+  Moralities and interludes -- Rise of comedy and tragedy -- Comedy: Lyly, Greene,
+  Peele, Nash -- Tragedy: Lodge, Kyd, Marlowe, Arden of Feversham -- The Elizabethan
+  stage -- Index.'
+title: The Growth of English Drama
+url: http://www.gutenberg.org/ebooks/18799
